@@ -1,0 +1,16 @@
+locahost本地主机：可以从浏览器打开wamp服务主机
+phpMyAdmine：数据库管理工具
+www目录：本地地址
+Apache：server：控制
+	模块：
+	http.conf：配置文件
+	错误日志、访问日志
+PHP：版本信息
+     设置
+     扩展
+     php.ini:peizhiwenjian
+Mysql：控制台：初始密码为空，命令行操作
+	my.ini
+webGrind：网站性能分析工具
+状态：在线：局域网可以访问
+      离线：只有本机可以访问

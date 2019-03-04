@@ -1,0 +1,46 @@
+body
+{
+	width:1460px;
+	margin-left: auto; 
+	margin-right: auto;
+}
+.f_main
+{
+	width: 1440px;
+	margin-left: auto; 
+	margin-right: auto;
+}
+li
+{
+	list-style:none;
+}
+.top_images
+{
+	padding:0;
+	width:32px;
+	height:32px;
+	float:left;
+}
+
+.show_images
+{
+	width:32px;
+	height:32px;
+
+}
+.test
+{
+	width:100px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+.show_t
+{
+	width:1460px;
+	margin-left: auto; 
+	margin-right: auto;
+	 text-align:center;
+	position:relative;
+	top:800px;
+}
